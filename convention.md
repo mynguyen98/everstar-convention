@@ -101,16 +101,15 @@
 ## 🌿 12. Branch Naming Convention
 
 - [ ] Đặt tên nhánh theo chuẩn:  
-       `feature/TICKET-message` (cho feature)  
-       `bugfix/TICKET-message` (cho bug)  
-       `hotfix/TICKET-message` (cho patch khẩn)  
+       `feature/parentBranch-childTicket-message` (cho feature)  
+       `feature/parentBranch-childTicket-message` (cho ticket con)  
+       `fixbug/parentBranch-childTicket-message`  
+       `hotfix/parentBranch-childTicket-message`  
        `release/vX.Y.Z` (cho release)
 
 - 📌 Ví dụ:
 
-  - `feature/FAN-123-header-ui`
-  - `bugfix/FAN-99-login-error`
-  - `hotfix/FAN-777-crash-when-refresh`
+  - `feature/dev-FAN-3-config-lint`
   - `release/v1.2.0`
 
 - 🧠 Tips:
