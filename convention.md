@@ -15,8 +15,9 @@
 ### 📄 Viết Ticket
 
 - [ ] Tên ticket đúng cấu trúc:  
-       `[TICKET cha][FE/BE][CD/Task/Bug][Common/screen] mô tả`  
+       `[FE/BE][CD/Task/Bug][Common/screen] mô tả`  
        _Ví dụ: `[FAN-4][FE][CD][Common] Setup prettier, lint, husky`_
+- [ ] Ticket con sẽ tạo sub ticket
 - [ ] Short Description để support report.
 
 ### 🧾 Mô Tả Ticket
